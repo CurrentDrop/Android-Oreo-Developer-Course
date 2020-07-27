@@ -1,4 +1,4 @@
-package com.example.interactivitydemo;
+package com.example.toastdemo;
 
 import org.junit.Test;
 
