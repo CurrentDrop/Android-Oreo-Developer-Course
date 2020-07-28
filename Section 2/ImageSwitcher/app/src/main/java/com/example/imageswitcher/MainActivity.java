@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         if(imgNumber == 0){
             imageView.setImageResource(R.drawable.fox);
-            imgNumber = 1;
+            imgNumber ++;
         }else{
             imageView.setImageResource(R.drawable.dog);
             imgNumber = 0;
